@@ -1,0 +1,166 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#ffffff"
+        >
+
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="30dp"
+            android:src="@drawable/bcka"
+            />
+
+        <TextView
+            android:id="@+id/eventname"
+            android:layout_width="199dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:text="ABOUT"
+            android:gravity="center"
+            android:layout_marginRight="25dp"
+            android:textColor="#000000"
+            android:textSize="24dp" />
+    </LinearLayout>
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffffff"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:text="ⓉⓇⒺⒶⓈⓊⓇⓄ"
+                android:textColor="#B22222"
+                android:textSize="33dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:paddingLeft="45dp"
+                android:paddingRight="45dp"
+                android:text="Nadering planters nog dikwijls staatjes die uiterste men meenemen. Veteraan atjehers al en speurzin planters verloren nu golconda. Ad werktuigen plotseling natuurlijk getaxeerde is spoorwegen goping stadje tweede minder toe . "
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:textStyle="italic" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:paddingLeft="45dp"
+                android:paddingRight="45dp"
+                android:text="Features"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:textStyle="italic" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="45dp"
+                android:paddingRight="45dp"
+                android:text="1)-One way audio interactions"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:textStyle="italic" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="45dp"
+                android:paddingRight="45dp"
+                android:text="2)-Realtime leadershipboard"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:textStyle="italic" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="45dp"
+                android:paddingRight="45dp"
+                android:text="3)- minSdkVersion 16"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:textStyle="italic" />
+            <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="45dp"
+            android:paddingRight="45dp"
+            android:text="4)-Firebase auth and DB"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:textStyle="italic" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="45dp"
+                android:paddingRight="45dp"
+                android:text="5)-Integrated Qr code Scanner"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:textStyle="italic" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="45dp"
+                android:paddingRight="45dp"
+                android:text="6)-Blah blah blah..."
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:textStyle="italic" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="35dp"
+                android:background="#ffffff"
+                android:orientation="horizontal">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#ffffff"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="SHANTANU RATHOD"
+                        android:textColor="#000000"
+                        android:textSize="20dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="15dp"
+                        android:text="    (DEVLOPER AND DESIGNER)"
+                        android:textColor="#000000"
+
+                        />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,363 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#ffffff"
+        >
+
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="30dp"
+            android:src="@drawable/bcka"
+            />
+
+        <TextView
+            android:id="@+id/eventname"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:layout_marginRight="25dp"
+            android:text="RULES"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:textSize="24dp" />
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="ⓉⓇⒺⒶⓈⓊⓇⓄ"
+        android:textColor="#B22222"
+        android:textSize="33dp"
+        android:textStyle="bold" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#ffffff"
+            >
+
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:src="@drawable/dot"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="10dp"
+                android:text="Op besluit ad geplant geheven op haalden beneden of."
+                android:textColor="#000000"
+                android:textSize="20dp"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#ffffff"
+            >
+
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:src="@drawable/dot"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="10dp"
+                android:text="al en speurzin planters verloren nu golconda."
+                android:textColor="#000000"
+                android:textSize="20dp"
+                />
+        </LinearLayout><LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#ffffff"
+        >
+
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="30dp"
+            android:src="@drawable/dot"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="10dp"
+            android:text="Nog slecht van dag konden spelen vierde ringen. Verhoogd doodende"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+    </LinearLayout><LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#ffffff"
+        >
+
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="30dp"
+            android:src="@drawable/dot"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="10dp"
+            android:text="Districten wedijveren bij specerijen slikbanken huwelijken "
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+    </LinearLayout><LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#ffffff"
+        >
+
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="30dp"
+            android:src="@drawable/dot"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="10dp"
+            android:text="u golco et eindelijk wassching zes bereire diepe hee mag. nnda."
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+    </LinearLayout><LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#ffffff"
+        >
+
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="30dp"
+            android:src="@drawable/dot"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="10dp"
+            android:text="
+Gif geraamten vroegeren bezorgden inderdaad dit nog inkomsten"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+    </LinearLayout><LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#ffffff"
+        >
+
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="30dp"
+            android:src="@drawable/dot"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="10dp"
+            android:text="Nog slecht van dag konden spelen vierde ringen. Verhoogd doodende dikwijls er omgeving om"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+    </LinearLayout><LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#ffffff"
+        >
+
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="30dp"
+            android:src="@drawable/dot"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="10dp"
+            android:text="Eut elancer toi laissez une pic chinois chasses."
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+    </LinearLayout><LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#ffffff"
+        >
+
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="30dp"
+            android:src="@drawable/dot"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="10dp"
+            android:text="Sur casernes eut pic criaient couvrent defoncat heureuse"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+    </LinearLayout><LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#ffffff"
+        >
+
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="30dp"
+            android:src="@drawable/dot"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="10dp"
+            android:text="al en speurzin planters verloren nu golconda."
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+    </LinearLayout><LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#ffffff"
+        >
+
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="30dp"
+            android:src="@drawable/dot"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="10dp"
+            android:text="nu golconda Sur casernes eut pic  defoncat heureuse"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+    </LinearLayout><LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#ffffff"
+        >
+
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="30dp"
+            android:src="@drawable/dot"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="10dp"
+            android:text="al en speurzin planters verloren nu golconda."
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+    </LinearLayout><LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#ffffff"
+        >
+
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="30dp"
+            android:src="@drawable/dot"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="10dp"
+            android:text="coHet eindelijk wassching zes bereiding tot. Zware diepe hee mag. nda."
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+    </LinearLayout>
+
+
+
+    </LinearLayout>
+</LinearLayout>
+</ScrollView>

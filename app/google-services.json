@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "355136105735",
+    "firebase_url": "https://treasuro-eda4d.firebaseio.com",
+    "project_id": "treasuro-eda4d",
+    "storage_bucket": "treasuro-eda4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355136105735:android:e915e02577d89c25d5e9a2",
+        "android_client_info": {
+          "package_name": "com.example.treasuro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355136105735-obrfegtot8o23ml748tfd6jl0an33t51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.treasuro",
+            "certificate_hash": "54bd6f54b756cad1c0e5e695ad75155dc3ee602c"
+          }
+        },
+        {
+          "client_id": "355136105735-un685pf8p4nje1svrgil59j47puoi78e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiHU9AYwpxM_vLb9n3fGT7rgBLUy5kHss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355136105735-un685pf8p4nje1svrgil59j47puoi78e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

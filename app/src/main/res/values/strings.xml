@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Treasuro</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">register</string>
+    <string name="title_activity_home">home</string>
+    <string name="title_activity_qrscanner">qrscanner</string>
+    <string name="title_activity_hme">hme</string>
+    <string name="title_activity_scanner">scanner</string>
+    <string name="title_activity_dashboard">dashboard</string>
+    <string name="title_activity_info">info</string>
+    <string name="title_activity_rules">rules</string>
+</resources>

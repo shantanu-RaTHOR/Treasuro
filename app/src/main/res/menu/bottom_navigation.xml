@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeid"
+        android:icon="@drawable/logg"
+        android:title="Home"/>
+    <item
+        android:id="@+id/board"
+        android:icon="@drawable/logg"
+        android:title="Board"/>
+    <item
+        android:id="@+id/rules"
+        android:icon="@drawable/logg"
+        android:title="Rules"/>
+
+
+</menu>
